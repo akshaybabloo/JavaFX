@@ -9,6 +9,6 @@ See controller.java
   2. Next drag and drop Border pane.
   3. Lastly add a button to it.
 2. On the left bottom side of the scene builder (under Document) click on Controller.
-3. In that type in the controller class. For example: `ButtonsEvents_3.controller`
+3. In that type in the controller class. For example: `ButtonsEvents_3.ButtonsEvents_3_1.controller`
 4. Next click on the button and on the right bottom side of the builder click on Code.
 5. Under On Action type in the function name. For example: `printOut`
