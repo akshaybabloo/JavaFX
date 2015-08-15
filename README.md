@@ -48,29 +48,29 @@ Note: JDK is located in `/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Conte
 <pre>
 JavaFX
 |
-`-- src
-    |
-    +-- HelloWorld_1
-    |   |
-    |   `-- main.java
-    +-- HelloWorldSceneBuilder_2
-    |   |
-    |   +-- g-4.jpg
-    |   +-- main.java
-    |   `-- Main.fxml
-    +-- ButtonsEvents_3
-    |   |
-    |   +-- README.md
-    |   +-- ButtonsEvents_3_1
-    |   |   |
-    |   |   +-- README.md
-    |   |   +-- controller.java
-    |   |   +-- main.java
-    |   |   `-- Main.fxml
-    |   +-- ButtonsEvents_3_2
-    |   |   |
-    |   |   +-- README.md
-    |   |   +-- controller.java
-    |   |   +-- main.java
-    |   |   `-- Main.fxml
++-- src
+|   |
+|   +-- HelloWorld_1
+|   |   |
+|   |   `-- main.java
+|   +-- HelloWorldSceneBuilder_2
+|   |   |
+|   |   +-- g-4.jpg
+|   |   +-- main.java
+|   |   `-- Main.fxml
+|   +-- ButtonsEvents_3
+|   |   |
+|   |   +-- README.md
+|   |   +-- ButtonsEvents_3_1
+|   |   |   |
+|   |   |   +-- README.md
+|   |   |   +-- controller.java
+|   |   |   +-- main.java
+|   |   |   `-- Main.fxml
+|   |   +-- ButtonsEvents_3_2
+|   |   |   |
+|   |   |   +-- README.md
+|   |   |   +-- controller.java
+|   |   |   +-- main.java
+|   |   |   `-- Main.fxml
 </pre>
