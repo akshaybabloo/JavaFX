@@ -48,7 +48,7 @@ Note: JDK is located in `/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Conte
 <pre>
 JavaFX
 |
-+-- src
+`-- src
     |
     +-- HelloWorld_1
     |   |
