@@ -1,7 +1,7 @@
 # JavaFX Tutorial
 JavaFX Tutorial
 
-## Setup and Instillation
+## Instillation and Setup
 This tutorial uses [IntelliJ IDEA](https://www.jetbrains.com/idea/) and Java SE 8.
 
 ### Setting up JDK
