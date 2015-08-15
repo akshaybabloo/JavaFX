@@ -60,8 +60,11 @@ JavaFX
     |   `-- Main.fxml
     +-- ButtonsEvents_3
     |   |
-    |   +-- README.md
-    |   +-- controller.java
-    |   +-- main.java
-    |   `-- Main.fxml
+    |   +-- ButtonsEvents_3_1
+    |   |   |
+    |   |   +-- README.md
+    |   |   +-- controller.java
+    |   |   +-- main.java
+    |   |   `-- Main.fxml
+    |   |
 </pre>
