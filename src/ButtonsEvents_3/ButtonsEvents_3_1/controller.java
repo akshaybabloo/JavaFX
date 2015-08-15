@@ -1,4 +1,4 @@
-package ButtonsEvents_3;
+package ButtonsEvents_3.ButtonsEvents_3_1;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;

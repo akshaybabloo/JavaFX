@@ -1,4 +1,4 @@
-package ButtonsEvents_3;
+package ButtonsEvents_3.ButtonsEvents_3_1;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -19,7 +19,7 @@ public class main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
 
-        Parent root = FXMLLoader.load(getClass().getResource("/ButtonsEvents_3/Main.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("/ButtonsEvents_3/ButtonsEvents_3_1/Main.fxml"));
         Scene scene = new Scene(root, 284, 113); // scene is the child of root node with dimensions on width*height
 
         primaryStage.setResizable(false);
