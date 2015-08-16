@@ -118,5 +118,11 @@ JavaFX
 |   |   +-- main.java
 |   |   +-- README.md
 |   |   `-- Main.fxml
+|   +-- FileChooser_7
+|   |   |
+|   |   +-- controller.java
+|   |   +-- main.java
+|   |   +-- README.md
+|   |   `-- Main.fxml
 `-- README.md
 </pre>
