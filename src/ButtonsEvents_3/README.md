@@ -1,4 +1,4 @@
-### Coding controller.java
+### Contents
 
 Event handling can be done in many different ways, in this example I will be showing two types of event handling when a button is clicked.
 
