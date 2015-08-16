@@ -1,0 +1,13 @@
+#myButton{
+    -fx-font-size: 2.0em;
+}
+
+#container{
+    -fx-background-color: rgb(32, 32, 32);
+}
+
+#myText{
+    -fx-font-size: 2.0em;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+}
