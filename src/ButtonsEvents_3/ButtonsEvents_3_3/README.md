@@ -1,4 +1,4 @@
-This example tutorial uses lambda based handlers for the button to print out *Hello World!* on the console.
+This example tutorial uses lambda based handlers for the button to print out *Hello World!* on the GUI.
 
 ### Coding controller.java
 
