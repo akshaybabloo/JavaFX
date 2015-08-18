@@ -44,6 +44,12 @@ Note: JDK is located in `/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Conte
 3. In the blank space type in `/Applications/JavaFX Scene Builder 2.0.app` or use `...` to browse to the application.
 4. Once done click on Ok.
 
+### Fonts
+
+Courtesy of
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [daFont - Tron](http://www.dafont.com/tron.font).
+
 ### Structure
 <pre>
 JavaFX
@@ -122,6 +128,14 @@ JavaFX
 |   |   |
 |   |   +-- controller.java
 |   |   +-- main.java
+|   |   +-- README.md
+|   |   `-- Main.fxml
+|   +-- CustomFonts_8
+|   |   |
+|   |   +-- controller.java
+|   |   +-- main.java
+|   |   +-- fontawesome-webfont.ttf
+|   |   +-- TRON.TTF
 |   |   +-- README.md
 |   |   `-- Main.fxml
 `-- README.md
