@@ -7,3 +7,4 @@
 * `ReadingTextField_5` - Examples on reading a text field.
 * `Menu_6` - Example on Menu bar.
 * `FileChooser_7` - Example on file chooser.
+* `CustomFonts_8` - Example on using custom fonts.
