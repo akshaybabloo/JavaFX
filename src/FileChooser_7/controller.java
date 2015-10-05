@@ -1,6 +1,7 @@
 package FileChooser_7;
 
 import javafx.fxml.FXML;
+import javafx.scene.Node;
 import javafx.scene.control.*;
 import javafx.stage.FileChooser;
 import javafx.stage.Window;
@@ -19,7 +20,6 @@ public class controller{
 
     @FXML
     private Button browse;
-    private Window primaryStage;
 
 
     @FXML
@@ -29,7 +29,7 @@ public class controller{
         // print on GUI
         browse.setOnAction((event) -> {
             FileChooser fileChooser = new FileChooser();
-            File file = fileChooser.showOpenDialog(primaryStage);
+            File file = fileChooser.showOpenDialog(((Node) event.getTarget()).getScene().getWindow());
             String fileName = String.valueOf(file);
             myText.setText(fileName);
         });
